@@ -9,7 +9,7 @@ export default function DocsHeader({ }) {
 
     return (
         <>
-            <div className="font-sans relative bg-indigo z-10" style={{ position: 'sticky', top: '0' }}>
+            <div className="-mt-8 -mr-8 -ml-8 font-sans relative bg-indigo z-10" style={{ position: 'sticky', top: '0' }}>
                 <div className='px-4 py-8 max-w-7xl mx-auto flex flex-row items-center justify-between border-b border-indigo'>
                     <Link href="/">
                         <img
