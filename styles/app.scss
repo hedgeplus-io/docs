@@ -121,10 +121,6 @@
     }
   }
 
-  h2 {
-    visibility: hidden;
-  }
-
   button {
     visibility: hidden;
   }
@@ -135,18 +131,18 @@
     max-width: 100%;
     height: auto;
   }
-
-  .invisible {
-    visibility: hidden !important;
+  h1:hover,
+  h2:hover {
+    a {
+      visibility: visible;
+    }
   }
-  // h1:hover,
-  // h2:hover {
-  //   a {
-  //     visibility: visible;
-  //   }
-  // }
 }
 
 .font-sim {
   font-weight: 600;
 }
+
+// .invisible {
+//   visibility: hidden !important;
+// }
