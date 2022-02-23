@@ -1,131 +1,145 @@
-
 .sidebar__nav {
-    max-height: calc(100vh - 240px);
-  }
-  
-  .font-sans {
-    font-family: Nunito;
-  }
-  
-  .docs {
-    font-size: 1.125rem;
-    line-height: 1.85rem;
-  
-    h1, h2, h3, h4, h5, h6 {
+  max-height: calc(100vh - 240px);
+}
+
+.font-sans {
+  font-family: Nunito;
+}
+
+.docs {
+  font-size: 1.125rem;
+  line-height: 1.85rem;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    display: inline-block;
+    vertical-align: baseline;
+
+    a.btn-copy-link {
       display: inline-block;
-      vertical-align: baseline;
-  
-      a.btn-copy-link {
-        display: inline-block;
-        vertical-align: text-bottom;
-      }
-    }
-  
-    h1 {
-      margin-bottom: 2rem;
-      line-height: 3rem;
-    }
-  
-    h2, h3 {
-      margin-top: 1.75rem;
-      margin-bottom: 0.75rem;
-    }
-  
-    p {
-      margin-top: 1.5rem;
-      max-width: 100%;
-      overflow-x: auto;
-      
-      a {
-        overflow-wrap: break-word;
-      }
+      vertical-align: text-bottom;
     }
   }
-  
-  .prose {
+
+  h1 {
+    margin-bottom: 2rem;
+    line-height: 3rem;
+  }
+
+  h2,
+  h3 {
+    margin-top: 1.75rem;
+    margin-bottom: 0.75rem;
+  }
+
+  p {
+    margin-top: 1.5rem;
+    max-width: 100%;
+    overflow-x: auto;
+
+    a {
+      overflow-wrap: break-word;
+    }
+  }
+}
+
+.prose {
+  --tw-text-opacity: 1;
+  color: rgba(76, 81, 115, var(--tw-text-opacity));
+
+  h1 {
+    font-size: 2.25em;
+    margin-top: 0;
+  }
+
+  h2 {
+    font-size: 1.5em;
+  }
+
+  p {
+    font-weight: 600;
+    margin-bottom: 1.25rem;
+  }
+
+  a {
     --tw-text-opacity: 1;
-    color: rgba(76, 81, 115, var(--tw-text-opacity));
-  
-    h1 {
-      font-size: 2.25em;
-      margin-top: 0;
-    }
-  
-    h2 {
-      font-size: 1.5em;
-    }
-  
-    p {
-      font-weight: 600;
-      margin-bottom: 1.25rem;
-    }
-  
+    color: rgba(245, 71, 115, var(--tw-text-opacity));
+    text-decoration: none;
+  }
+
+  ol,
+  ul {
+    margin-top: 0em;
+    margin-bottom: 1.25em;
+    position: relative;
+    margin-left: 20px;
+    padding-top: 16px;
+    border-left: 1px dotted #0e018f;
+  }
+
+  ul > li {
+    position: relative;
+    padding-left: 1.75em;
+  }
+
+  ul > li::before {
+    content: "";
+    position: absolute;
+    background-color: #0e018f;
+    border-radius: 50%;
+    width: 0.375em;
+    height: 0.375em;
+    top: calc(0.875em - 0.1875em);
+    left: 0em;
+    margin-left: -4px;
+  }
+
+  li {
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight: 600;
+    --tw-text-opacity: 1;
+    color: rgba(5, 16, 93, var(--tw-text-opacity));
+
     a {
       --tw-text-opacity: 1;
-      color: rgba(245,71,115,var(--tw-text-opacity));
+      color: rgba(245, 71, 115, var(--tw-text-opacity));
       text-decoration: none;
-    }
-  
-    ol, ul {
-      margin-top: 0em;
-      margin-bottom: 1.25em;
-      position: relative;
-      margin-left: 20px;
-      padding-top: 16px;
-      border-left: 1px dotted #0E018F;
-    }
-  
-    ul>li {
-      position: relative;
-      padding-left: 1.75em;
-    }
-  
-    ul>li::before {
-      content: "";
-      position: absolute;
-      background-color: #0E018F;
-      border-radius: 50%;
-      width: 0.375em;
-      height: 0.375em;
-      top: calc(0.875em - 0.1875em);
-      left: 0em;
-      margin-left: -4px;
-    }
-  
-    li {
-      margin-bottom: 0;
-      margin-top: 0;
-    }
-  
-    h1, h2, h3, h4, h5, h6 {
-      font-weight: 600;
-      --tw-text-opacity: 1;
-      color: rgba(5, 16, 93, var(--tw-text-opacity)); 
-  
-      a {
-        --tw-text-opacity: 1;
-        color: rgba(245,71,115,var(--tw-text-opacity));
-        text-decoration: none;
-        visibility: hidden;
-      }
-    }
-  
-    button {
       visibility: hidden;
     }
-  
-    figure, img, video {
-      max-width: 100%;
-      height: auto;
-    }
-  
-    h1:hover, h2:hover {
-      a {
-        visibility: visible;
-      }
+  }
+
+  button {
+    visibility: hidden;
+  }
+
+  figure,
+  img,
+  video {
+    max-width: 100%;
+    height: auto;
+  }
+
+  h1:hover,
+  h2:hover {
+    a {
+      visibility: visible;
     }
   }
-  
-  .font-sim {
-    font-weight: 600;
-  }
+}
+
+.font-sim {
+  font-weight: 600;
+}
