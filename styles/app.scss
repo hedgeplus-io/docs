@@ -26,6 +26,7 @@
   }
 
   h1 {
+    margin-bottom: 2rem;
     line-height: 3rem;
   }
 
@@ -43,6 +44,10 @@
     a {
       overflow-wrap: break-word;
     }
+  }
+
+  svg {
+    display: none;
   }
 }
 
@@ -102,7 +107,12 @@
     margin-top: 0;
   }
 
-  h2 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     font-weight: 600;
     --tw-text-opacity: 1;
     color: rgba(5, 16, 93, var(--tw-text-opacity));
@@ -125,6 +135,7 @@
     max-width: 100%;
     height: auto;
   }
+
   h1:hover,
   h2:hover {
     a {
