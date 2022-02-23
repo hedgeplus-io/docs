@@ -14,7 +14,7 @@ export default function DocsHeader({ }) {
                     <Link href="/">
                         <img
                             className="logo cursor-pointer"
-                            src="/images/logo.png"
+                            src="/images/logo.svg"
                             alt="hedgeplus logo"
                             width={200}
                             height={40}
