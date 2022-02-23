@@ -61,3 +61,5 @@
 * Research Program
 * Partnerships and Integrations
 * HedgePlus Ecosystem Growth Acceleration
+
+![roadmap](/images/roadmap.svg)
