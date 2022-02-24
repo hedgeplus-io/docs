@@ -2,8 +2,8 @@
   max-height: calc(100vh - 240px);
 }
 
-.font-sans {
-  font-family: Barlow;
+.font-Catamaran {
+  font-family: Catamaran;
 }
 
 .docs {
@@ -18,7 +18,7 @@
   h6 {
     display: inline-block;
     vertical-align: baseline;
-
+    font-family: Catamaran;
     a.btn-copy-link {
       display: inline-block;
       vertical-align: text-bottom;
@@ -40,7 +40,7 @@
     margin-top: 1.5rem;
     max-width: 100%;
     overflow-x: auto;
-
+    font-family: MerriweatherSans;
     a {
       overflow-wrap: break-word;
     }
@@ -65,7 +65,7 @@
   }
 
   p {
-    font-weight: 600;
+    font-weight: 300;
     margin-bottom: 1.25rem;
   }
 
@@ -142,8 +142,4 @@
       visibility: visible;
     }
   }
-}
-
-.font-sim {
-  font-weight: 400;
 }

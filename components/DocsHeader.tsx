@@ -9,7 +9,7 @@ export default function DocsHeader({ }) {
 
     return (
         <>
-            <div className="-mt-8 -mr-8 -ml-4 lg:-ml-8 font-sans relative bg-indigo z-10" style={{ position: 'sticky', top: '0' }}>
+            <div className="-mt-8 -mr-8 -ml-4 lg:-ml-8 relative bg-indigo z-10" style={{ position: 'sticky', top: '0' }}>
                 <div className='px-4 py-8 max-w-7xl mx-auto flex flex-row items-center justify-between border-b border-indigo'>
                     <Link href="/">
                         <img
@@ -21,10 +21,10 @@ export default function DocsHeader({ }) {
                         />
                     </Link>
                     <div className='hidden md:flex flex-row items-center space-x-8'>
-                        <Link href="/"><div className='text-2xl text-white cursor-pointer font-sim'>Home</div></Link>
-                        <Link href="/docs"><div className='text-2xl text-white cursor-pointer font-sim'>Document</div></Link>
-                        <Link href="https://discord.gg/hkqAHKUVGK"><div className='text-2xl text-white font-sim cursor-pointer'>Discord</div></Link>
-                        <Link href="https://t.me/hedgeplus_io"><div className='text-2xl text-white cursor-pointer font-sim'>Telegram</div></Link>
+                        <Link href="/"><div className='text-2xl text-white cursor-pointer font-Catamaran'>Home</div></Link>
+                        <Link href="/docs"><div className='text-2xl text-white cursor-pointer font-Catamaran'>Document</div></Link>
+                        <Link href="https://discord.gg/hkqAHKUVGK"><div className='text-2xl text-white cursor-pointer font-Catamaran'>Discord</div></Link>
+                        <Link href="https://t.me/hedgeplus_io"><div className='text-2xl text-white cursor-pointer font-Catamaran'>Telegram</div></Link>
                     </div>
                     <div className='hidden md:flex flex-row items-center space-x-4'>
                         <div className="mr-2 transition delay-150 duration-300 ease-in-out transform hover:scale-110">

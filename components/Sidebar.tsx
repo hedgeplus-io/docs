@@ -1,7 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
 import { useState } from 'react'
-import useWindowSize from "../hooks/useWindowSize";
 import { useEffect } from 'react';
 import { useRouter } from "next/router";
 
@@ -11,7 +10,7 @@ function ListItems({ routes }) {
       if (!r.path) {
         return (
           <li key={r.title}>
-            <h4 className="text-docblue text-xl font-normal cursor-pointer">{r.title}</h4>
+            <h4 className="text-docblue text-xl font-normal cursor-pointer font-Catamaran">{r.title}</h4>
             <ul>
               <ListItems routes={r.routes} />
             </ul>
@@ -21,7 +20,7 @@ function ListItems({ routes }) {
         return (
           <li key={r.title}>
             <Link key={r.path} href={r.path}>
-              <a className="pl-2 flex text-gray hover:text-docblue text-lg py-2 transition ease-in-out duration-150 font-sim w-full">
+              <a className="pl-2 flex text-gray hover:text-docblue text-lg py-2 transition ease-in-out duration-150 w-full font-Catamaran">
                 {r.title}
               </a>
             </Link>
@@ -36,14 +35,13 @@ function ListItems({ routes }) {
 
 export default function Sidebar({ routes }) {
   const router = useRouter();
-  const { width } = useWindowSize();
   const [navOpen, setNavOpen] = useState(false);
 
-  useEffect(() => {
-    if (width < 768) {
-      setNavOpen(false);
-    }
-  }, [width])
+  // useEffect(() => {
+  //   if (window.innerWidth < 768) {
+  //     setNavOpen(false);
+  //   }
+  // }, [window.innerWidth])
 
   useEffect(() => {
     setNavOpen(false);
@@ -83,7 +81,7 @@ export default function Sidebar({ routes }) {
                         const obj = routes[route]
                         return (
                           <div key={`sidebar-${idx}`}>
-                            <h3 className="text-docblue text-lg font-sim mt-4">
+                            <h3 className="text-docblue text-lg mt-4">
                               {obj.title}
                             </h3>
                             <ul>
@@ -102,7 +100,7 @@ export default function Sidebar({ routes }) {
                       const obj = routes[route]
                       return (
                         <div key={`sidebar-${idx}`}>
-                          <h3 className="text-docblue text-lg font-sim mt-4">
+                          <h3 className="text-docblue text-lg mt-4">
                             {obj.title}
                           </h3>
                           <ul>

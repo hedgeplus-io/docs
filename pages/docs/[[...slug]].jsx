@@ -20,7 +20,7 @@ export default function Docs({ title, source, sidebarRoutes, tocHeadings }) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <DocsHeader></DocsHeader>
-      <div className="pt-8 md:flex max-w-7xl mx-auto justify-center font-sans">
+      <div className="pt-8 md:flex max-w-7xl mx-auto justify-center">
         <Sidebar routes={sidebarRoutes} />
         <main className="mt-4 md:flex-1 ml-4 xl:ml-8 pr-4 sm:pr-0">
           <div className='mx-auto md:mx-0 docs prose max-w-prose md:max-w-xl lg:max-w-2xl main-docs-section'>

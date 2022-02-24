@@ -1,3 +1,48 @@
 @tailwind base;
 @tailwind components;
+
+@font-face {
+    font-family: "Catamaran";
+    src: url("../public/fonts/Catamaran-Bold.ttf");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Catamaran";
+    src: url("../public/fonts/Catamaran-SemiBold.ttf");
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Catamaran";
+    src: url("../public/fonts/Catamaran-Medium.ttf");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "MerriweatherSans";
+    src: url("../public/fonts/Catamaran-Light.ttf");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "MerriweatherSans";
+    src: url("../public/fonts/MerriweatherSans-Bold.ttf");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MerriweatherSans";
+    src: url("../public/fonts/MerriweatherSans-SemiBold.ttf");
+    font-weight: 600;
+}
+@font-face {
+    font-family: "MerriweatherSans";
+    src: url("../public/fonts/MerriweatherSans-Medium.ttf");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "MerriweatherSans";
+    src: url("../public/fonts/MerriweatherSans-Light.ttf");
+    font-weight: 300;
+}
+
 @tailwind utilities;
