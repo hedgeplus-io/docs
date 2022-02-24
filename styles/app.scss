@@ -16,7 +16,8 @@
   h4,
   h5,
   h6 {
-    display: inline-block;
+    display: flex;
+    flex-direction: column;
     vertical-align: baseline;
     font-family: Catamaran;
     a.btn-copy-link {
