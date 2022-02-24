@@ -24,29 +24,28 @@ historical facts, but only predictions. All “forward-looking statements” are
 
 ### These factors and uncertainties include, amongst others
 
-* (a) Socio-political, economic changes, stock or crypto-assets market conditions, and the regulatory environment in the countries in which HedgePlus and/or its affiliates conduct its/their respective
+1. Socio-political, economic changes, stock or crypto-assets market conditions, and the regulatory environment in the countries in which HedgePlus and/or its affiliates conduct its/their respective
 businesses and operations; 
 
-* (b) The risk that HedgePlus and/or its affiliates may be unable to execute or implement their respective business strategies and future plans; 
+2. The risk that HedgePlus and/or its affiliates may be unable to execute or implement their respective business strategies and future plans; 
 
-* (c) Changes in the anticipated growth strategies and expected internal
-growth of HedgePlus and/or its affiliates; 
+3. Changes in the anticipated growth strategies and expected internal growth of HedgePlus and/or its affiliates; 
 
-* (d) Changes in the availability and fortunes of HedgePlus and/or its affiliates in connection with their respective businesses and operations; 
+4. Changes in the availability and fortunes of HedgePlus and/or its affiliates in connection with their respective businesses and operations; 
 
-* (e) Changes in the availability and salaries of employees who are required by HedgePlus and/or its affiliates to operate their respective businesses and operations; 
+5. Changes in the availability and salaries of employees who are required by HedgePlus and/or its affiliates to operate their respective businesses and operations; 
 
-* (f) Changes in preferences of HedgePlus and/or its affiliates; 
+6. Changes in preferences of HedgePlus and/or its affiliates; 
 
-* (g) Changes in the competitive conditions under which HedgePlus and/or its affiliates operate, and their ability to compete under such conditions; 
+7. Changes in the competitive conditions under which HedgePlus and/or its affiliates operate, and their ability to compete under such conditions; 
 
-* (h) Changes in the future capital needs of HedgePlus and/or its affiliates and the availability of financing and capital to fund such needs; 
+8. Changes in the future capital needs of HedgePlus and/or its affiliates and the availability of financing and capital to fund such needs; 
 
-* (i) War or acts of international or domestic terrorism;
+9. War or acts of international or domestic terrorism;
 
-* (j) Occurrences of catastrophic events, natural disasters, and acts of God that affect the businesses and/or operations of HedgePlus and/or its affiliates; 
+10. Occurrences of catastrophic events, natural disasters, and acts of God that affect the businesses and/or operations of HedgePlus and/or its affiliates; 
 
-* (k) And other factors beyond the control of HedgePlus and/or its affiliates.
+11. And other factors beyond the control of HedgePlus and/or its affiliates.
 Any prospective participant in this token sale is hereby cautioned to not rely upon any such “forward-looking statements”, which speaks only as of the date they were made. HedgePlus is not under any obligation and expressly therefore disclaims any obligation whatsoever, to update or alter any “forward-looking statements”, in the event of new information, future events or otherwise. 
 
 All subsequent “forward-looking statements” attributable to HedgePlus, its affiliates or any person acting on their behalf are expressly qualified in their entirety by the cautionary statements referred to in this White Paper. Neither HedgePlus nor any other person represents, warrants and/or undertakes that the actual future results, performance or achievements of HedgePlus and/or its
