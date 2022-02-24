@@ -89,7 +89,7 @@
     position: relative;
     margin-left: 20px;
     padding-top: 16px;
-    border-left: 1px dotted #0e018f;
+    //border-left: 1px dotted #0e018f;
   }
 
   ul > li {
@@ -100,16 +100,17 @@
   ul > li::before {
     content: "";
     position: absolute;
-    background-color: #0e018f;
+    background-color: rgba(76,81,115,var(--tw-text-opacity));
     border-radius: 50%;
     width: 0.375em;
     height: 0.375em;
     top: calc(0.875em - 0.1875em);
     left: 0em;
-    margin-left: -4px;
+    // margin-left: -4px;
   }
 
   li {
+    font-family: MerriweatherSans;
     margin-bottom: 0;
     margin-top: 0;
   }
