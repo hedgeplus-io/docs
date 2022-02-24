@@ -21,7 +21,7 @@ export default function DocsHeader({ }) {
                         />
                     </Link>
                     <div className='hidden md:flex flex-row items-center space-x-8'>
-                        <Link href="/"><div className='text-2xl text-white cursor-pointer font-Catamaran'>Home</div></Link>
+                        <Link href="https://www.hedgeplus.io"><div className='text-2xl text-white cursor-pointer font-Catamaran'>Home</div></Link>
                         <Link href="/docs"><div className='text-2xl text-white cursor-pointer font-Catamaran'>Document</div></Link>
                         <Link href="https://discord.gg/hkqAHKUVGK"><div className='text-2xl text-white cursor-pointer font-Catamaran'>Discord</div></Link>
                         <Link href="https://t.me/hedgeplus_io"><div className='text-2xl text-white cursor-pointer font-Catamaran'>Telegram</div></Link>
