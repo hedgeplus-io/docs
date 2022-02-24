@@ -10,7 +10,7 @@ export default function DocsHeader({ }) {
     return (
         <>
             <div className="-mt-8 -mr-8 -ml-4 lg:-ml-8 relative bg-indigo z-10" style={{ position: 'sticky', top: '0' }}>
-                <div className='px-4 py-8 max-w-7xl mx-auto flex flex-row items-center justify-between border-b border-indigo'>
+                <div className='px-8 py-8 max-w-7xl mx-auto flex flex-row items-center justify-between border-b border-indigo'>
                     <Link href="/">
                         <img
                             className="logo cursor-pointer"
