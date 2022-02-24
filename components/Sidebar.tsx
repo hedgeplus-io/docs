@@ -83,9 +83,9 @@ export default function Sidebar({ routes }) {
                         const obj = routes[route]
                         return (
                           <div key={`sidebar-${idx}`}>
-                            <h3 className="text-docblue text-lg mt-4">
+                            <h4 className="text-docblue text-lg mt-4">
                               {obj.title}
-                            </h3>
+                            </h4>
                             <ul>
                               <ListItems routes={obj.routes} />
                             </ul>
