@@ -9,7 +9,7 @@ export default function Toc({ contents }) {
           <div className="flex items-center flex-shrink-0 px-2 pb-8">
             <div className="flex-grow flex flex-col">
               <nav className="flex-1 px-2 space-y-1">
-                <h4 className="text-docblue text-xs font-semibold mt-6">
+                <h4 className="text-docblue text-xs font-semibold mt-6 font-Catamaran">
                   On this page
                 </h4>
                 <ul style={{listStyle: 'none'}}>
@@ -19,7 +19,7 @@ export default function Toc({ contents }) {
                         <li key={item.slug}>
                           <Link
                             activeClass="bg-pink-400 text-white font-bold hover:text-white hover:bg-pink-600 "
-                            className='text-sm w-full text-docblue hover:text-orange cursor-pointer inline-flex items-center py-2 leading-4'
+                            className='text-sm w-full text-docblue hover:text-orange cursor-pointer inline-flex items-center py-2 leading-4 font-Catamaran'
                             to={item.slug}
                             hashSpy={true}
                             spy={true}
