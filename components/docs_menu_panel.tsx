@@ -6,7 +6,7 @@ export default function DocsMenuPanel() {
 
     return (
         <>
-            <div className="relative menu-bg md:hidden flex px-2 py-6 z-10" style={{ position: 'sticky', top: '88px', height: '100vh' }}>
+            <div className="-mr-8 -ml-4 relative bg-lightindigo md:hidden flex px-8 py-6 z-10" style={{ position: 'sticky', top: '105px', height: '100vh'}}>
                 <div className="px-4">
                     <div className="space-y-1">
                         <p className="py-2 text-white text-xl"><Link href="/">Home</Link></p>

@@ -15,6 +15,7 @@ module.exports = {
       'black': '#000000',
       'gray': '#374151',
       'docblue': '#1E40AF',
+      'lightindigo': '#2a2c9d'
     }
   },
   variants: {
