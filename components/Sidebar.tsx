@@ -3,6 +3,7 @@ import Link from 'next/link'
 import { useState } from 'react'
 import { useEffect } from 'react';
 import { useRouter } from "next/router";
+import useWindowSize from "../hooks/useWindowSize";
 
 function ListItems({ routes }) {
   if (routes) {
@@ -35,13 +36,14 @@ function ListItems({ routes }) {
 
 export default function Sidebar({ routes }) {
   const router = useRouter();
+  const { width } = useWindowSize();
   const [navOpen, setNavOpen] = useState(false);
 
-  // useEffect(() => {
-  //   if (window.innerWidth < 768) {
-  //     setNavOpen(false);
-  //   }
-  // }, [window.innerWidth])
+  useEffect(() => {
+    if (width < 768) {
+      setNavOpen(false);
+    }
+  }, [width])
 
   useEffect(() => {
     setNavOpen(false);

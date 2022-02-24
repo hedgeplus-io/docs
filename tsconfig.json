@@ -21,7 +21,8 @@
   "include": [
     "next-env.d.ts",
     "**/*.ts",
-    "**/*.tsx"
+    "**/*.tsx",
+    "hooks/useWindowSize.js"
   ],
   "exclude": [
     "node_modules"
