@@ -55,7 +55,7 @@ export default function Sidebar({ routes }) {
         <div className='flex items-center flex-shrink-0 px-4'>
           <aside className='flex-grow flex flex-col'>
             <div>
-              <button className='md:hidden px-2 py-3 font-bold text-gray flex' onClick={() => setNavOpen(!navOpen)}>
+              <button className='md:hidden px-2 py-3 font-bold text-gray flex flex-row items-center' onClick={() => setNavOpen(!navOpen)}>
                 <span className="font-normal block transform mr-1 w-6">
                   {
                     navOpen ? (
@@ -73,7 +73,7 @@ export default function Sidebar({ routes }) {
                     )
                   }
                 </span>
-                Menu
+                <span className='font-Catamaran'>Menu</span>
               </button>
               {
                 navOpen && (
