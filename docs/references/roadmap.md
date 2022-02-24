@@ -2,7 +2,7 @@
 
 <!-- markdownlint-disable MD036 -->
 
-## 1.River phase
+### 1.River phase
 
 * Hello World! HedgePlus is Born
 * Project Kickoff, Research & Whitepaper
@@ -13,7 +13,7 @@
 * Uniswap and DEX Listings
 * Promotion Campaigns
 
-## 2.Mountain phase
+### 2.Mountain phase
 
 * Liquidity Mining and Staking
 * HedgePlus Vault
@@ -25,7 +25,7 @@
 * Volume and TVL Growth
 * Premium Trading Signals Integration
 
-## 3.Forest phase
+### 3.Forest phase
 
 * Borrow/Lending
 * Blockchain Validor Platform Launch
@@ -39,7 +39,7 @@
 * NFT Auction and Transactions
 * Cross Chain NFT Bridge
 
-## 4.Ocean phase
+### 4.Ocean phase
 
 * Opening of European Office
 * OTC and P2P Exchange
@@ -52,7 +52,7 @@
 * Fiat-to-Crypto gateway
 * Advocacy and Ambassadors Program
 
-## 5.Sky Phase
+### 5.Sky Phase
 
 * Extensive Media and Press Coverage
 * Attend and Speak at Major Cryptocurrency Events and Exhibitions
