@@ -59,7 +59,6 @@
 
 .prose {
   --tw-text-opacity: 1;
-  color: rgba(76, 81, 115, var(--tw-text-opacity));
 
   h1 {
     font-size: 2.25em;
@@ -74,6 +73,7 @@
   p {
     font-weight: 400;
     margin-bottom: 1.25rem;
+    color: rgba(76, 81, 115, var(--tw-text-opacity));
   }
 
   a {
