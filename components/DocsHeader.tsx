@@ -11,7 +11,7 @@ export default function DocsHeader({ }) {
         <>
             <div className="-mt-8 -mr-8 -ml-4 lg:-ml-8 relative bg-indigo z-10" style={{ position: 'sticky', top: '0' }}>
                 <div className='px-8 py-8 max-w-7xl mx-auto flex flex-row items-center justify-between border-b border-indigo'>
-                    <Link href="https://www.hedgeplus.io/">
+                    <a href="https://www.hedgeplus.io/">
                         <img
                             className="logo cursor-pointer"
                             src="/images/logo.svg"
@@ -19,7 +19,7 @@ export default function DocsHeader({ }) {
                             width={200}
                             height={40}
                         />
-                    </Link>
+                    </a>
                     <div className='hidden md:flex flex-row items-center space-x-8'>
                         <a href="https://www.hedgeplus.io"><div className='text-2xl text-white cursor-pointer font-Catamaran'>Home</div></a>
                         <Link href="https://discord.gg/hkqAHKUVGK"><div className='text-2xl text-white cursor-pointer font-Catamaran'>Discord</div></Link>
