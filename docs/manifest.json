@@ -6,13 +6,7 @@
       "routes": [
         {
           "title": "HedgePlus Introduction",
-          "path": "/docs/README.md",
-          "readingTime": {
-            "text": "2 min",
-            "minutes": 1.945,
-            "time": 116700,
-            "words": 389
-          }
+          "path": "/docs/README.md"
         }
       ]
     },
@@ -22,53 +16,27 @@
       "routes": [
         {
           "title": "Features",
-          "path": "/docs/references/feature.md",
-          "readingTime": {
-            "text": "1 min",
-            "minutes": 0.96,
-            "time": 57600,
-            "words": 192
-          }
+          "path": "/docs/references/feature.md"
         },
         {
           "title": "Tokenomics",
-          "path": "/docs/references/tokenomics.md",
-          "readingTime": {
-            "text": "2 min",
-            "minutes": 1.015,
-            "time": 60900,
-            "words": 203
-          }
+          "path": "/docs/references/tokenomics.md"
         },
         {
           "title": "About US",
-          "path": "/docs/references/aboutus.md",
-          "readingTime": {
-            "text": "3 min",
-            "minutes": 2.99,
-            "time": 179400,
-            "words": 598
-          }
+          "path": "/docs/references/aboutus.md"
         },
         {
           "title": "Roadmap",
-          "path": "/docs/references/roadmap.md",
-          "readingTime": {
-            "text": "2 min",
-            "minutes": 1.62,
-            "time": 97200,
-            "words": 324
-          }
+          "path": "/docs/references/roadmap.md"
+        },
+        {
+          "title": "Vesting",
+          "path": "/docs/references/vesting.md"
         },
         {
           "title": "FAQs",
-          "path": "/docs/references/faq.md",
-          "readingTime": {
-            "text": "4 min",
-            "minutes": 3.075,
-            "time": 184500,
-            "words": 615
-          }
+          "path": "/docs/references/faq.md"
         }
       ]
     }
