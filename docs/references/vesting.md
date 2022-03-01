@@ -4,5 +4,5 @@ description: Vesting
 
 # Tokenomics
 
-![Token_Metrics](/images/TOKEN METRICS.png)
+![Token_Metrics](/images/tokenomics.svg)
 ![Vesting](/images/vesting.png)
