@@ -22,7 +22,7 @@ function ListItems({ routes }) {
         return (
           <li key={r.title}>
             <div key={r.path}>
-              <a href={`https://www.hedgeplus.io/docs${r.path}`} className="pl-2 flex text-gray hover:text-docblue text-lg py-2 transition ease-in-out duration-150 w-full font-Catamaran">
+              <a href={r.path} className="pl-2 flex text-gray hover:text-docblue text-lg py-2 transition ease-in-out duration-150 w-full font-Catamaran">
                 {r.title}
               </a>
             </div>
