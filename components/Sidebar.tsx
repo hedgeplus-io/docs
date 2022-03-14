@@ -6,6 +6,7 @@ import { useRouter } from "next/router";
 import useWindowSize from "../hooks/useWindowSize";
 
 function ListItems({ routes }) {
+  console.log('routes', routes)
   if (routes) {
     return routes.map((r) => {
       if (!r.path) {
@@ -20,11 +21,11 @@ function ListItems({ routes }) {
       } else {
         return (
           <li key={r.title}>
-            <Link key={r.path} href={r.path}>
-              <a className="pl-2 flex text-gray hover:text-docblue text-lg py-2 transition ease-in-out duration-150 w-full font-Catamaran">
+            <div key={r.path}>
+              <a href={`https://www.hedgeplus.io/docs${r.path}`} className="pl-2 flex text-gray hover:text-docblue text-lg py-2 transition ease-in-out duration-150 w-full font-Catamaran">
                 {r.title}
               </a>
-            </Link>
+            </div>
           </li>
         )
       }
