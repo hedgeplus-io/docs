@@ -12,7 +12,7 @@ function ListItems({ routes }) {
       if (!r.path) {
         return (
           <li key={r.title}>
-            <h4 className="text-docblue text-xl font-normal cursor-pointer font-Catamaran">{r.title}</h4>
+            <h3 className="text-docblue text-lg font-normal cursor-pointer font-Catamaran">{r.title}</h3>
             <ul>
               <ListItems routes={r.routes} />
             </ul>
