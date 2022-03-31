@@ -7,13 +7,7 @@
         {
           "title": "HedgePlus Introduction",
           "path": "/docs/README.md"
-        }
-      ]
-    },
-    {
-      "heading": true,
-      "title": "References",
-      "routes": [
+        },
         {
           "title": "Features",
           "path": "/docs/references/feature.md"
