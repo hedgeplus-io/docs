@@ -7,16 +7,60 @@
         {
           "title": "HedgePlus Introduction",
           "path": "/docs/README.md"
-        }
-      ]
-    },
-    {
-      "heading": true,
-      "title": "Overview",
-      "routes": [
+        },
         {
+          "title": "Overview",
+          "path": "/docs/references/overview.md"
+        },
+        {
+          "title": "Problem",
+          "path": "/docs/references/problem.md"
+        },
+        {
+          "title": "Solution",
+          "path": "/docs/references/solution.md"
+        },
+        {
+          "heading": true,
           "title": "Features",
-          "path": "/docs/references/feature.md"
+          "routes": [
+            {
+              "title": "Autonomous and Hyper Deflationary Coin",
+              "path": "/docs/features/autonomous.md"
+            },
+            {
+              "title": "MetaVerse NFT Game",
+              "path": "/docs/features/metaverse.md"
+            },
+            {
+              "title": "Liquidity Mining & Utilization Rewards",
+              "path": "/docs/features/liquidity.md"
+            },
+            {
+              "title": "Farming and Staking",
+              "path": "/docs/features/farming.md"
+            },
+            {
+              "title": "Crypto Assets Investment Fund and Early-stage Incubator",
+              "path": "/docs/features/crypto_assets.md"
+            },
+            {
+              "title": "Inner Circle Altcoins Trading Tips and Signals",
+              "path": "/docs/features/inner_circle.md"
+            },
+            {
+              "title": "0% Interest Loans",
+              "path": "/docs/features/interest_loans.md"
+            },
+            {
+              "title": "Blockchain Validator Nodes",
+              "path": "/docs/features/blockchain_validator.md"
+            },
+            {
+              "title": "Peer-to-Peer OTC Exchange",
+              "path": "/docs/features/peer2peer.md"
+            }
+          ]
         },
         {
           "title": "Tokenomics",
