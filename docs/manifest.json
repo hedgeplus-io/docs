@@ -7,7 +7,13 @@
         {
           "title": "HedgePlus Introduction",
           "path": "/docs/README.md"
-        },
+        }
+      ]
+    },
+    {
+      "heading": true,
+      "title": "Overview",
+      "routes": [
         {
           "title": "Features",
           "path": "/docs/references/feature.md"
@@ -15,10 +21,6 @@
         {
           "title": "Tokenomics",
           "path": "/docs/references/tokenomics.md"
-        },
-        {
-          "title": "About US",
-          "path": "/docs/references/aboutus.md"
         },
         {
           "title": "Roadmap",
@@ -29,8 +31,8 @@
           "path": "/docs/references/vesting.md"
         },
         {
-          "title": "Legal Disclaimer",
-          "path": "/docs/references/legal_disclaimer.md"
+          "title": "About US",
+          "path": "/docs/references/aboutus.md"
         },
         {
           "title": "Audits and Bug Bounty",
