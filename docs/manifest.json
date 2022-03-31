@@ -29,6 +29,30 @@
           "path": "/docs/references/vesting.md"
         },
         {
+          "title": "Legal Disclaimer",
+          "path": "/docs/references/legal_disclaimer.md"
+        },
+        {
+          "title": "Audits and Bug Bounty",
+          "path": "/docs/references/audits.md"
+        },
+        {
+          "title": "Github",
+          "path": "/docs/references/github.md"
+        },
+        {
+          "title": "Voting",
+          "path": "/docs/references/voting.md"
+        },
+        {
+          "title": "HedgePlus Token Utility",
+          "path": "/docs/references/token_utility.md"
+        },
+        {
+          "title": "Token Addresses",
+          "path": "/docs/references/token_addresses.md"
+        },
+        {
           "title": "FAQs",
           "path": "/docs/references/faq.md"
         }

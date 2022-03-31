@@ -1,0 +1,6 @@
+---
+description: Parameter reference
+---
+
+# Voting
+
