@@ -101,6 +101,10 @@
         {
           "title": "FAQs",
           "path": "/docs/references/faq.md"
+        },
+        {
+          "title": "Collaborate with Us",
+          "path": "/docs/references/collaborate.md"
         }
       ]
     }
