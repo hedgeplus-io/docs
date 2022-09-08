@@ -4,7 +4,10 @@ description: Parameter reference
 
 # OverView
 
-Hedgeplus comprises a tight-knit group of skilled subject matter experts. We combine expertise from investors, influencers, traders, and business builders to grow projects with purpose strategically. Our experienced business development team has a diverse background in finance, venture capital, and technology.And behind the scenes, more than 12 developers, engineers, and 30 operationally active advisors ensure technological efficiency. 
+Hedgeplus is a decentralized finance, NFTs, and Gaming platform.  
 
-We are an exclusive group focused on positive progress in the cryptocurrency space, driven by a passionate belief: Financial markets should be universally accessible — unrestrained by censorship, pre-existing financial and social capital, or your beliefs and values.
+Hedgeplus is backed by HedgePlus Ventures. HedgePlus Ventures is committed to becoming a global accelerator and investor building the native Web 3.0 blockchain economy. Working alongside leading founders, exciting start-ups, and corporate innovators, we move new concepts efficiently to the market.
 
+Partners benefit and flourish through co-creation, capital, and a community invested in their success. The community benefits from early access and onboarding with projects at the intersection of emerging technologies and societal trends. Together, we bring innovative ideas to life.
+
+Catalyzing the growth of blockchain start-ups and actively working as a long-term strategic partner, we are coin-agnostic, token-model-agnostic, and Blockchain-agnostic. Pragmaticism over dogmatism. Execution over ideology and collaboration over competition.
