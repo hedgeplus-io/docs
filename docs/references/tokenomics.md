@@ -10,18 +10,18 @@ description: Parameter reference
     * There will be a fixed supply of HedgePlus - 2 billion. The 2 billion will be minted at the initial token generation event (TGE), with no additional tokens creation afterward. The token allocations, shown below:
 <br/><br/>
     
-    > 10% Presale & Public Sale
+    > Private & Public Sales - 10%
 
-    > 10% Platform Development
+    > Team - 10% 
 
-    > 5% Team
+    > Platform Development- 20%
 
-    > 5% Operations
+    > Operations - 20%
 
-    > 10% Strategic/Exchanges
+    > Marketing - 10%
 
-    > 30% Marketing & Partnerships
+    > Bounties & Promotions - 5%
 
-    > 10% Bounties & Promotions
+    > Legal & Advisors - 10%
 
-    > 20% Legal & Advisors
+    > Strategic Partners & Exchanges - 15%
